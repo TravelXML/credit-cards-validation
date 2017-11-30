@@ -1,5 +1,5 @@
 # credit-cards-validation
-credit cards validation using javascript
+credit cards validation using javascript and Luhn algorithm
 
 
 Lets use a randomly generated Visa credit card number 4539300916139765
