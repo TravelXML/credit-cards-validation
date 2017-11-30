@@ -1,2 +1,2 @@
 # credit-cards-validation
-credit-cards-validation-using-javascript
+credit cards validation using javascript
