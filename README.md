@@ -17,3 +17,7 @@ Step 5 : Count all numbers together | 75
 Step 6 : Add the last digit of the credit card (5) with the total sum (75) | 80
 
 Step 7 : If the digit you have is a multiple of 10 than the credit card is valid 8 * 10 is 80
+
+Card Start with 4 : VISA 16 digit
+Card Start with 5 : Master 16 digit
+Card Start with 3 : MX 15 digit
